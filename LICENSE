@@ -1,33 +1,44 @@
 LIZENSIERUNG
 ------------
 
-Das gesamte originäre, dieser Übersetzung und Anpassung zugrundeliegende Konzept und Material unterliegt
-dem Urheberrecht von Herrn Professor Garth N. Wells (gnw20@cam.ac.uk). Die vorliegende Übersetzung
-ins Deutsche und Anpassung an die speziellen Erfordernisse der Studiengänge an der Fakultät
-Wirtschaftsingenieurwesen an der OTH Amberg-Weiden erfolgte durch Peter Hassenpflug (p.hassenpflug@oth-aw.de).
+Das gesamte originäre, dieser Übersetzung und Anpassung zugrundeliegende
+Konzept und Material unterliegt dem Urheberrecht von Herrn Professor
+Garth N. Wells (gnw20@cam.ac.uk). Die vorliegende Übersetzung ins Deutsche
+und Anpassung an die speziellen Erfordernisse der Studiengänge an der
+Fakultät Wirtschaftsingenieurwesen an der OTH Amberg-Weiden erfolgte
+durch Peter Hassenpflug (p.hassenpflug@oth-aw.de).
 
-Der gesamte begleitende Text wird in der originären wie auch in dieser adaptierten deutschsprachigen Version
-unter der [Creative Commons Attribution-ShareAlike 4.0 International Public License] zur Verfügung gestellt:
-  https://creativecommons.org/licenses/by-sa/4.0/legalcode.de
+Der gesamte begleitende Text wird in der originären wie auch in dieser
+adaptierten deutschsprachigen Version unter der [Creative Commons
+Attribution-ShareAlike 4.0 International Public License] zur Verfügung
+gestellt: https://creativecommons.org/licenses/by-sa/4.0/legalcode.de
 
 Der enthaltene Computer-Code wird unter der [MIT-Lizenz] veröffentlicht:
-  https://de.wikipedia.org/wiki/MIT-Lizenz
+https://de.wikipedia.org/wiki/MIT-Lizenz
 
-Die MIT-Lizenz (c) 2016 - 2019 Garth N. Wells (originäre Konzeption und originäre inhaltliche Ausarbeitung)
-                   2019 - 2020 Peter Hassenpflug (deutsche Übersetzung und Anpassung an die OTH-Amberg-Weiden)
+Die MIT-Lizenz (c) 2016 - 2019 Garth N. Wells:
+                               originäre Konzeption und originäre 
+                               inhaltliche Ausarbeitung
+                   2019 - 2020 Peter Hassenpflug:
+                               deutschsprachige Übersetzung und Anpassung
+                               an die OTH-Amberg-Weiden
 
-Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zugehörigen Dokumentationen
-(die „Software“) erhält, die Erlaubnis erteilt, sie uneingeschränkt zu nutzen, inklusive und ohne Ausnahme
-mit dem Recht, sie zu verwenden, zu kopieren, zu verändern, zusammenzufügen, zu veröffentlichen, zu verbreiten,
-zu unterlizenzieren und/oder zu verkaufen, und Personen, denen diese Software überlassen wird, diese Rechte zu
+Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der
+zugehörigen Dokumentationen (die „Software“) erhält, die Erlaubnis erteilt,
+sie uneingeschränkt zu nutzen, inklusive und ohne Ausnahme mit dem Recht,
+sie zu verwenden, zu kopieren, zu verändern, zusammenzufügen, zu
+veröffentlichen, zu verbreiten, zu unterlizenzieren und/oder zu verkaufen,
+und Personen, denen diese Software überlassen wird, diese Rechte zu
 verschaffen, unter den folgenden Bedingungen:
 
-Der obige Urheberrechtsvermerk und dieser Erlaubnisvermerk sind in allen Kopien oder Teilkopien
-der Software beizulegen.
+Der obige Urheberrechtsvermerk und dieser Erlaubnisvermerk sind in allen
+Kopien oder Teilkopien der Software beizulegen.
 
-DIE SOFTWARE WIRD „SO WIE SIE IST“ OHNE JEDE AUSDRÜCKLICHE ODER IMPLIZIERTE GARANTIE BEREITGESTELLT,
-EINSCHLIEẞLICH DER GARANTIE ZUR BENUTZUNG FÜR DEN VORGESEHENEN ODER EINEM BESTIMMTEN ZWECK SOWIE
-JEGLICHER RECHTSVERLETZUNG, JEDOCH NICHT DARAUF BESCHRÄNKT. IN KEINEM FALL SIND DIE AUTOREN ODER
-URHEBERRECHTSINHABER FÜR JEGLICHEN SCHADEN ODER SONSTIGE ANSPRÜCHE HAFTBAR ZU MACHEN, OB INFOLGE
-DER ERFÜLLUNG EINES VERTRAGES, EINES DELIKTES ODER ANDERES, WAS IM ZUSAMMENHANG MIT DER SOFTWARE
-ODER SONSTIGER VERWENDUNG DER SOFTWARE ENTSTANDEN IST.
+DIE SOFTWARE WIRD „SO WIE SIE IST“ OHNE JEDE AUSDRÜCKLICHE ODER IMPLIZIERTE
+GARANTIE BEREITGESTELLT, EINSCHLIEẞLICH DER GARANTIE ZUR BENUTZUNG FÜR DEN
+VORGESEHENEN ODER EINEM BESTIMMTEN ZWECK SOWIE JEGLICHER RECHTSVERLETZUNG,
+JEDOCH NICHT DARAUF BESCHRÄNKT. IN KEINEM FALL SIND DIE AUTOREN ODER
+URHEBERRECHTSINHABER FÜR JEGLICHEN SCHADEN ODER SONSTIGE ANSPRÜCHE HAFTBAR
+ZU MACHEN, OB INFOLGE DER ERFÜLLUNG EINES VERTRAGES, EINES DELIKTES ODER
+ANDERES, WAS IM ZUSAMMENHANG MIT DER SOFTWARE ODER SONSTIGER VERWENDUNG
+DER SOFTWARE ENTSTANDEN IST.
