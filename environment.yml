@@ -1,0 +1,7 @@
+name: environment_OTH_AW_de_Informatik-1
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - numba
+  - matplotlib
